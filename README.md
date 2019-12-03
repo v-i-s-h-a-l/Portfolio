@@ -1,5 +1,5 @@
 # Portfolio
-A reference of my work experience
+A reference to projects I have worked upon.
 
 At Caastle we are building a platform which is flexible for delivering similar apps for multiple brands. (Haverdash app is one of them).
 
@@ -7,6 +7,8 @@ At Caastle we are building a platform which is flexible for delivering similar a
 Mobile app for charting up garment rental business in the USA.
 
 App link: https://apps.apple.com/us/app/haverdash-rent-endless-looks/id1476239587
+
+![alt text](https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/HD/HDVid1.MP4)
 
 ## Gwynnie Bee - an endless closet (Jan 2018 - Jan 2019)
 Mobile app for charting up garment rental business in the USA.
