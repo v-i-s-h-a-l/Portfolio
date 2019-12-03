@@ -24,6 +24,7 @@ App link: https://apps.apple.com/us/app/the-tribe-apache-industrial-services/id9
 Duet App is an artwork that invites participants in India and the UK to build a unique and anonymous relationship with someone on the other side of the world, connecting and exchanging details of their lives by answering one question a day. Prompted by Duet App, a participant gradually builds a picture of their partner and their surroundings through shared messages. 
 
 (The app was planned to be live for an year, it has now been taken down)
+https://invisibleflock.com/portfolio/duet/
 
 
 ## PropCube - Realestate Property Agents Brokers (Mar 2016 – Apr 2016)
