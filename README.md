@@ -8,26 +8,44 @@ Mobile app for charting up garment rental business in the USA.
 
 App link: https://apps.apple.com/us/app/haverdash-rent-endless-looks/id1476239587
 
-![alt text](https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/HD/HD1.jpg)
-![alt text](https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/HD/HD2.jpg)
-![alt text](https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/HD/HD3.jpg)
-![alt text](https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/HD/HD4.jpg)
+<img src="https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/HD/HD1.jpg"
+     alt=""
+     height="400"
+     width="180"/> <img src="https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/HD/HD2.jpg"
+     alt=""
+     height="400"
+     width="180"/> <img src="https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/HD/HD3.jpg"
+     alt=""
+     height="400"
+     width="180"/> <img src="https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/HD/HD4.jpg"
+     alt=""
+     height="400"
+     width="180"/>
 
 Video demo:
-![alt text](https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/HD/HDVid1.MP4)
+![Haverdash Video](https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/HD/HDVid1.MP4)
 
 ## Gwynnie Bee - an endless closet (Jan 2018 - Jan 2019)
 Mobile app for charting up garment rental business in the USA.
 
 App link: https://apps.apple.com/us/app/gwynnie-bee-an-endless-closet/id981897219
 
-![alt text](https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/GB/GB1.jpg)
-![alt text](https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/GB/GB2.jpg)
-![alt text](https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/GB/GB3.jpg)
-![alt text](https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/GB/GB4.jpg)
+<img src="https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/GB/GB1.jpg"
+     alt=""
+     height="400"
+     width="180"/> <img src="https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/GB/GB2.jpg"
+     alt=""
+     height="400"
+     width="180"/> <img src="https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/GB/GB3.jpg"
+     alt=""
+     height="400"
+     width="180"/> <img src="https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/GB/GB4.jpg"
+     alt=""
+     height="400"
+     width="180"/>
 
 Video demo:
-![alt text](https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/GB/GBVid1.MP4)
+![Gwynnie Bee Video](https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/GB/GBVid1.MP4)
 
 
 ## The Tribe - Apache Industrial Services (April 2016 - August 2017)
