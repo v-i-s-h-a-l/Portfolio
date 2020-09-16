@@ -22,8 +22,6 @@ App link: https://apps.apple.com/us/app/haverdash-rent-endless-looks/id147623958
      height="400"
      width="180"/>
 
-Video demo:
-![Haverdash Video](https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/HD/HDVid1.MP4)
 
 ## Gwynnie Bee - an endless closet (Jan 2018 - )
 Mobile app for charting up garment rental business in the USA.
@@ -43,9 +41,6 @@ App link: https://apps.apple.com/us/app/gwynnie-bee-an-endless-closet/id98189721
      alt=""
      height="400"
      width="180"/>
-
-Video demo:
-![Gwynnie Bee Video](https://github.com/v-i-s-h-a-l/Portfolio/blob/master/Media/GB/GBVid1.MP4)
 
 
 ## The Tribe - Apache Industrial Services (April 2016 - August 2017)
