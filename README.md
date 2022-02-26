@@ -1,9 +1,17 @@
 # Portfolio
 A reference to projects I have worked upon.
 
+## Paytm Money Stocks Trading App (April 2021 - )
+Open your account in Paytm Money and buy stocks that you love, invest in mutual funds, and prepare for your retirement with NPS in just a tap.
+
+App link: https://apps.apple.com/in/app/paytm-money-stocks-trading-app/id1344431352
+
+
+## CaaStle
+
 At Caastle we are building a platform which is flexible for delivering similar apps for multiple brands. (Haverdash app is one of them).
 
-## Haverdash: Rent Endless Looks (Jan 2019 - )
+## Haverdash: Rent Endless Looks (Jan 2019 - March 2021)
 Mobile app for charting up garment rental business in the USA.
 
 App link: https://apps.apple.com/us/app/haverdash-rent-endless-looks/id1476239587
@@ -23,7 +31,7 @@ App link: https://apps.apple.com/us/app/haverdash-rent-endless-looks/id147623958
      width="180"/>
 
 
-## Gwynnie Bee - an endless closet (Jan 2018 - )
+## Gwynnie Bee - an endless closet (Jan 2018 - March 2021)
 Mobile app for charting up garment rental business in the USA.
 
 App link: https://apps.apple.com/us/app/gwynnie-bee-an-endless-closet/id981897219
