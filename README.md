@@ -1,7 +1,12 @@
 # Portfolio
-A reference to projects I have worked upon.
+A reference to projects I have contributed:
 
-## Paytm Money Stocks Trading App (April 2021 - )
+## NovaSignal (May 2022 - present)
+https://www.novasignal.com/about/company
+NovaSignal had this robotic device which could measure blood flow data in brain and help patients in preventing/predicting strokes. The app is currently not live as its first version is yet to be launched. The app would help hospitals in the US and Canada. The doctors, physicians, lab experts, IT dept teams can use the app and access the AI processed data/reports etc. received from the machine and access certain other functionality depending on the role.
+
+
+## Paytm Money Stocks Trading App (April 2021 - May 2022)
 Open your account in Paytm Money and buy stocks that you love, invest in mutual funds, and prepare for your retirement with NPS in just a tap.
 
 App link: https://apps.apple.com/in/app/paytm-money-stocks-trading-app/id1344431352
